@@ -1,4 +1,4 @@
-author:林奕辰
+author: 林奕辰
 date: 2026-03-04
 question: |
   假設我們使用DFTL（Demand-based FTL）當作我們FTL的設計，假設CMT有a0~a3，淘汰策略選擇LRU
